@@ -1,3 +1,9 @@
+/*
+Routine of birthdays.sql
+a script to make a view table, looking at two other tables with forign key relationship
+by <https://github.com/GrantAccess/castle-vagabond/> (CC)
+the author has not changed this document since Tuesday 22 Feb 2022
+*/
 
 /*
 There are two tables
